@@ -5,9 +5,9 @@
 
 <b>Automation part:</b>
 
-Automation Part achevied with Selenium Test Framework
-Not Completed Multi Browser Support
-Tests will run on Chrome Browser 
+Automation Part achevied with Selenium Test Framework <br/>
+Not Completed Multi Browser Support <br/>
+Tests will run on Chrome Browser <br/>
 
 How to run it (<b>Tested on Windows only</b>)
 
