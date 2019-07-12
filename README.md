@@ -5,7 +5,9 @@
 
 <b>Automation part:</b>
 
-Completed with selenium + testng, Tested on Chrome only as maven project
+Automation Part achevied with Selenium Test Framework
+Not Completed Multi Browser Support
+Tests will run on Chrome Browser 
 
 How to run it (<b>Tested on Windows only</b>)
 
